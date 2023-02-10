@@ -31,3 +31,5 @@ function saluda(nombre){
 function suma(a, b){
 	console.log(a + b);
 }
+
+// FUNCIONES
